@@ -1,0 +1,48 @@
+#namelabel {
+  color: #63ff8a;
+  -webkit-text-stroke: 1px #63ff8a;
+  font-size: 20px;
+ }
+#username {
+  border-radius: 3px;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+}
+ #passlabel {
+  color: #63ff8a;
+  -webkit-text-stroke: 1px #63ff8a;
+  font-size: 20px;
+ }
+
+ #password {
+  border-radius: 3px;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+ }
+
+ #emaillabel {
+  color: #63ff8a;
+  -webkit-text-stroke: 1px #63ff8a;
+  font-size: 20px;
+ }
+
+ #eml {
+  border-radius: 3px;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+ }
+
+
+
+
+ 
+/* Divs */
+ #login {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+ }
+ 
